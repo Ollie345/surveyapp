@@ -7,6 +7,7 @@
 
 ```sql
 CREATE DATABASE survey;
+
 ```
 
 5. Create a .env file in the project with the following details
